@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/data_transfer.png</file>
+        <file>Resources/stale_data.png</file>
+        <file>Resources/sort_asc.png</file>
+        <file>Resources/sort_desc.png</file>
+    </qresource>
+</RCC>
